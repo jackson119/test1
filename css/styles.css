@@ -1,0 +1,16 @@
+            body{
+                background-color:#EAF6F6;
+            }
+            hr{
+                border-style:none;    /* clear the browser default border style set all the border to none*/
+                border-top-style:dotted; /* set the top border to dotted*/
+                border-color:grey;     /*set the border color to grey*/
+                border-width:5px;            
+                width:3%;               /* set the width to 30 % of the web page*/
+            }
+            h1{
+                color: #66BFBF;
+            }
+            h3{
+                color:#66BFBF;
+            }
